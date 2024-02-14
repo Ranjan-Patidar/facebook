@@ -1,0 +1,48 @@
+* body{
+  font-size: smaller;
+  box-sizing: border-box;
+  background-color: #f0f2f5;
+}
+.Forget-container{
+  border: rgb(255,255,255) .5rem solid;
+  background-color: white;
+  width: 40rem;
+  padding: 2.5rem;
+  border-radius: 1rem;
+}
+.ForgetForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.BasicDetail {
+  width: 300px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.input {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.btnsss {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btnsss:hover {
+  background-color: #0056b3;
+}
+

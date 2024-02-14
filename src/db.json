@@ -1,0 +1,12 @@
+{
+    "posts": [
+        {
+          "email": "ram@gmail.com",
+          "password": "Ram@123"
+        },
+        {
+          "title": "Shyam@gmail.com",
+          "tags": "Shyam@321"
+        }
+      ]
+}
